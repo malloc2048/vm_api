@@ -1,0 +1,14 @@
+# These are required packages for the app to run
+gcc
+libpq-dev
+python-dev
+xmlsec1
+git
+python3-pip
+qemu-kvm
+virtinst
+virt-viewer
+net-tools
+pkg-config
+libvirt-dev
+libvirt-clients
