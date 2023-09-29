@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask-restful = "*"
+flask-restplus = "*"
+werkzeug = "==0.16.1"
+markupsafe = "==2.0.1"
+gunicorn = "*"
+flask = "*"
+libvirt-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
